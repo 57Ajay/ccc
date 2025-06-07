@@ -1,6 +1,7 @@
 # 🛠️ CCC - C/C++ Project Starter Tool
 
-> A simple, lightweight CLI tool to initialize and manage C/C++ projects with ease.
+> A simple, lightweight CLI tool to initialize and manage C/C++ projects with ease.<br>
+> Note: It is just a hobby project, i thought of managing, build my c/c++ project easiely.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://github.com/57ajay/ccc)
