@@ -158,7 +158,7 @@ The `.ccc_config` file supports the following options:
 # Project type (required)
 project_type=c          # Options: c, cpp, c++
 
-# Custom compiler (optional)
+# NOTE: THESE ALL TO BE IMPLEMENTED 
 compiler=gcc            # Options: gcc, g++, clang, clang++
 
 # Additional flags (optional)
