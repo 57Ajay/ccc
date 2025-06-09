@@ -1,7 +1,7 @@
-# 🛠️ CCC - C/C++ Project Starter Tool
+# 🛠️ CCC - C/C++ Project Starter and build Tool
 
 > A simple, lightweight CLI tool to initialize and manage C/C++ projects with ease.<br>
-> Note: It is just a hobby project, i thought of managing, build my c/c++ project easiely.
+> Note: It is just a hobby project, i thought of managing, building my c/c++ project easiely without cmake, make etc...
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://github.com/57ajay/ccc)
@@ -182,13 +182,12 @@ I welcome contributions from the community! Here's how you can help:
 
 ### 💡 Contribution Ideas
 
-- [ ] **Makefile Generation** - Auto-generate Makefiles for complex projects
 - [ ] **Clang Support** - Add native clang/clang++ compiler support
 - [ ] **Enhanced Windows** - Improve native Windows compatibility
 - [ ] **Auto PATH Setup** - Automatic system PATH configuration
 - [ ] **Advanced Config** - More flexible `.ccc_config` options
 - [ ] **Template System** - Pre-built project templates
-- [ ] **Package Manager** - Integration with C/C++ package managers
+- **You can implement your own idea too**
 
 ### 🐛 Bug Reports
 
